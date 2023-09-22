@@ -27,3 +27,5 @@ conda install numpy
 #体验一个agents工作过程
 python3 sample.py #
 ```
+
+>> agents/a1.py 是一个比较容易理解的例子
